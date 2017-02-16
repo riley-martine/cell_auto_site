@@ -27,7 +27,7 @@
           <li>Learned basics of collaboration with git/github</li>
           <li>Set up website home page and resources page</li>
           <li>Started researching cellular automata and taking notes</li>
-
+          <li>Devised sub-optimal identity verification system requiring shared secret key using, using rule 4 cellular automata.</li>
         </ul></li>
 
         <li>Day 2<ul>
