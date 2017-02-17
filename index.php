@@ -33,6 +33,11 @@
             <li>Learned about branching and merging with git</li>
             <li>Researched quantumn cellular automata</li>
             <li>Cleaned up website structure</li>
+            <li>Wrote game of life in java</li>
+            <li>Wrote Langton's Ant in java</li>
+            <li>Wrote random 1d cell auto printer in Python</li>
+            <li>Learned some about sockets in Python</li>
+            <li>Wrote base of secret handshake program</li>
         </ul></li>
 
 
