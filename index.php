@@ -12,7 +12,11 @@
       <div class="jumbotron">
         <h1>Cellular Automata</h1>
         <footer>Josh Abrams and Riley Martine</footer><br>
-        <p class="lead">This is the homepage for our cellular automata miniterm. Check out our github to see the code we've written.</p>
+        <blockquote class="blockquote">
+          <p class="mb-0">It turns out that an eerie type of chaos can lurk just behind a facade of order - and yet, deep inside the chaos lurks an even eerier type of order.</p>
+        <footer class="blockquote-footer">Douglas R. Hofstadter</footer>
+        </blockquote>
+        
         <label> Progress Log <ul>
 
         <li>Day 1<ul>
