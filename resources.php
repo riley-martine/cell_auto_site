@@ -30,7 +30,13 @@
 
         <h2>Web Pages</h2>
         <ul>
-    
+        </ul>
+        <br />
+        <h3>Articles</h3>
+        <ul>
+        <li>Aoun, Bassam &amp Tarifi, Mohammad. "Quantum Cellular Automata." &lt https://arxiv.org/ftp/quant-ph/papers/0401/0401123.pdf &gt </li> 
+        <li>Watrous, John. "On One-Dimensional Quantum Cellular Automata." &lt https://pdfs.semanticscholar.org/94ba/37ea9dce4ef4d28f8f9b6269b8255143149f.pdf &gt </li>
+        <li>Horowitz, Joshua. "An Introduction to Quantum Cellular Automata." &lt http://joshuahhh.com/projects/qca.pdf &gt </li>    
         </ul>
         <br />
 
@@ -38,7 +44,6 @@
         <p class="lead">Resources for learning about git</p>
         <ul>
         <li><a href="http://learngitbranching.js.org/">Learn Git Branching</a></li>
-
         </ul>
       </div>
     </div>
