@@ -1,13 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
     <title>Cellular Automata Resources</title>
-
-    <link href="static/styles/bootstrap.min.css" rel="stylesheet">
-    <link href="static/styles/style.css" rel="stylesheet">
+    <?php include "includes/head.html";?>
   </head>
 
   <body>
@@ -36,22 +31,23 @@
         <h2>Web Pages</h2>
         <ul>
         </ul>
+        <br />
         <h3>Articles</h3>
         <ul>
         <li>Aoun, Bassam &amp Tarifi, Mohammad. "Quantum Cellular Automata." &lt https://arxiv.org/ftp/quant-ph/papers/0401/0401123.pdf &gt </li> 
         <li>Watrous, John. "On One-Dimensional Quantum Cellular Automata." &lt https://pdfs.semanticscholar.org/94ba/37ea9dce4ef4d28f8f9b6269b8255143149f.pdf &gt </li>
-        <li>Horowitz, Joshua. "An Introduction to Quantum Cellular Automata." &lt http://joshuahhh.com/projects/qca.pdf &gt </li>
+        <li>Horowitz, Joshua. "An Introduction to Quantum Cellular Automata." &lt http://joshuahhh.com/projects/qca.pdf &gt </li>    
+        </ul>
+        <br />
+
+        <h2>Git Resources</h2>
+        <p class="lead">Resources for learning about git</p>
+        <ul>
+        <li><a href="http://learngitbranching.js.org/">Learn Git Branching</a></li>
         </ul>
       </div>
     </div>
 
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
-    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
-    <script src="static/scripts/bootstrap.min.js"></script>
+  <?php include_once 'includes/scripts.html'; ?>
   </body>
 </html>

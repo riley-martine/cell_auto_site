@@ -1,16 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
     <title>Cellular Automata</title>
-
-    <!-- Bootstrap core CSS -->
-    <link href="static/styles/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom styles for this template -->
-    <link href="static/styles/style.css" rel="stylesheet">
+    <?php include "includes/head.html";?>
   </head>
 
   <body>
@@ -20,7 +12,11 @@
       <div class="jumbotron">
         <h1>Cellular Automata</h1>
         <footer>Josh Abrams and Riley Martine</footer><br>
-        <p class="lead">This is the homepage for our cellular automata miniterm. Check out our github to see the code we've written.</p>
+        <blockquote class="blockquote">
+          <p class="mb-0">It turns out that an eerie type of chaos can lurk just behind a facade of order - and yet, deep inside the chaos lurks an even eerier type of order.</p>
+        <footer class="blockquote-footer">Douglas R. Hofstadter</footer>
+        </blockquote>
+        
         <label> Progress Log <ul>
 
         <li>Day 1<ul>
@@ -34,7 +30,9 @@
 
 
         <li>Day 2<ul>
-
+            <li>Learned about branching and merging with git</li>
+            <li>Researched quantumn cellular automata</li>
+            <li>Cleaned up website structure</li>
         </ul></li>
 
 
@@ -67,13 +65,7 @@
       </div>
     </div>
 
+  <?php include_once 'includes/scripts.html';?>
 
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
-    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
-    <script src="static/scripts/bootstrap.min.js"></script>
   </body>
 </html>
