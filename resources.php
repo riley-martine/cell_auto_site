@@ -34,9 +34,9 @@
         <br />
         <h3>Articles</h3>
         <ul>
-        <li>Aoun, Bassam &amp Tarifi, Mohammad. "Quantum Cellular Automata." &lt https://arxiv.org/ftp/quant-ph/papers/0401/0401123.pdf &gt </li> 
-        <li>Watrous, John. "On One-Dimensional Quantum Cellular Automata." &lt https://pdfs.semanticscholar.org/94ba/37ea9dce4ef4d28f8f9b6269b8255143149f.pdf &gt </li>
-        <li>Horowitz, Joshua. "An Introduction to Quantum Cellular Automata." &lt http://joshuahhh.com/projects/qca.pdf &gt </li>    
+          <li>Aoun, Bassam &amp Tarifi, Mohammad.<a href="https://arxiv.org/ftp/quant-ph/papers/0401/0401123.pdf"> Quantum Cellular Automata.</a> </li> 
+          <li>Watrous, John.<a href="https://pdfs.semanticscholar.org/94ba/37ea9dce4ef4d28f8f9b6269b8255143149f.pdf"> On One-Dimensional Quantum Cellular Automata.</a> </li>
+        <li>Horowitz, Joshua.<a href="http://joshuahhh.com/projects/qca.pdf"> An Introduction to Quantum Cellular Automata.</a> </li>    
         </ul>
         <br />
 
