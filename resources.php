@@ -30,7 +30,15 @@
 
         <h2>Web Pages</h2>
         <ul>
-        
+    
+        </ul>
+        <br />
+
+        <h2>Git Resources</h2>
+        <p class="lead">Resources for learning about git</p>
+        <ul>
+        <li><a href="http://learngitbranching.js.org/">Learn Git Branching</a></li>
+
         </ul>
       </div>
     </div>
