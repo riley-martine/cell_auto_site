@@ -26,7 +26,9 @@
 
 
         <li>Day 2<ul>
-
+            <li>Learned about branching and merging with git</li>
+            <li>Researched quantumn cellular automata</li>
+            <li>Cleaned up website structure</li>
         </ul></li>
 
 
