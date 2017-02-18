@@ -37,7 +37,7 @@
             <li>Wrote Langton's Ant in java</li>
             <li>Wrote random 1d cell auto printer in Python</li>
             <li>Learned some about sockets in Python</li>
-            <li>Wrote base of secret handshake program</li>
+            <li>Wrote base of secret handshake <a href="https://github.com/riley-martine/secret-handshake/tree/master">program</a></li>
         </ul></li>
 
 
