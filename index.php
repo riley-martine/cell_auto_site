@@ -10,7 +10,7 @@
     <?php include 'includes/navbar.php' ?>
     <div class="container">
       <div class="jumbotron">
-        <h1>Cellular Automata</h1>
+        <h1 class="text-primary">Cellular Automata</h1>
         <footer>Josh Abrams and Riley Martine</footer><br>
         <blockquote class="blockquote">
           <p class="mb-0">It turns out that an eerie type of chaos can lurk just behind a facade of order - and yet, deep inside the chaos lurks an even eerier type of order.</p>

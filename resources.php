@@ -10,7 +10,7 @@
     <?php include 'includes/navbar.php' ?>
     <div class="container">
       <div class="jumbotron">
-        <h1>Cellular Automata Resources</h1>
+        <h1 class="text-primary">Cellular Automata Resources</h1>
         <p class="lead">These are some resources for learning about cellular automata.</p>
         
         <h2>Programs</h2>
