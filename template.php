@@ -11,7 +11,7 @@
   
   <div class="container">
       <div class="jumbotron">
-        <h1>Cellular Automata</h1>
+        <h1 class="text-primary">Cellular Automata</h1>
         <p class="lead">Template here. Lorem ipsum etc</p>
       </div>
     </div>
