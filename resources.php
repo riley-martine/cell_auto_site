@@ -37,6 +37,8 @@
           <li>Aoun, Bassam &amp Tarifi, Mohammad.<a href="https://arxiv.org/ftp/quant-ph/papers/0401/0401123.pdf"> Quantum Cellular Automata.</a> </li> 
           <li>Watrous, John.<a href="https://pdfs.semanticscholar.org/94ba/37ea9dce4ef4d28f8f9b6269b8255143149f.pdf"> On One-Dimensional Quantum Cellular Automata.</a> </li>
         <li>Horowitz, Joshua.<a href="http://joshuahhh.com/projects/qca.pdf"> An Introduction to Quantum Cellular Automata.</a> </li>    
+        <li>Baetens, Jan M &amp Gravner, Janko. <a href="https://arxiv.org/pdf/1509.06639.pdf">Introducing Lyapunov Profiles of Cellular Automata</a></li>
+
         </ul>
         <br />
 

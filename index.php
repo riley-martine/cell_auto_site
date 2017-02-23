@@ -37,22 +37,33 @@
             <li>Wrote Langton's Ant in java</li>
             <li>Wrote random 1d cell auto printer in Python</li>
             <li>Learned some about sockets in Python</li>
-            <li>Wrote base of secret handshake <a href="https://github.com/riley-martine/secret-handshake/tree/master">program</a></li>
+            <li>Wrote base of secret handshake program</a></li>
         </ul></li>
 
 
         <li>Day 3<ul>
+            <li>Read more about cryptography in cellular automata</li>
+            <li>Made cryptography program</li>
+            <li>Learned how to make GUI in python</li>
+            <li>Made base of cryptography GUI</li>
+            <li>Read more looking for potential projects</li>
 
+            
         </ul></li>
        
 
         <li>Day 4<ul>
-
-        </ul></li>
+            <li>Finished <a target="_blank" href="https://github.com/riley-martine/cellular-automata-cryptography">
+            cryptography GUI v1.0</a></li>
+            <li>Read more about Lyapunov exponents/profiles</li>
+            <li>Generated massive amounts of defect cones</li>
+       </ul></li>
 
 
         <li>Day 5<ul>
-
+            <li>Wrote<a target="_blank" href="https://github.com/riley-martine/lyapunov-ca-gen">
+            program</a> to analyze and view defect cones</li>
+            <li>Learned about pillow/PIL and type hinting in python</li>
         </ul></li>
 
 
