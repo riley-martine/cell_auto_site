@@ -44,19 +44,19 @@
 		<li>A collection of histograms illustrating defect frequencies of various rules (Python, matplotlib, and plotly):</li>
 		<?php
 			$urls = [
-		'150'=>'https://plot.ly/~JoshAbrams/20/lyapunov-profile-for-rule-150/'
-		'22'=>'https://plot.ly/~JoshAbrams/22/lyapunov-profile-for-rule-22/'
-		'225'=>'https://plot.ly/~JoshAbrams/24/lyapunov-profile-for-rule-225/'
-		'25'=>'https://plot.ly/~JoshAbrams/26/lyapunov-profile-for-rule-25/'
-		'30'=>'https://plot.ly/~JoshAbrams/28/lyapunov-profile-for-rule-30/'
-		'38'=>'https://plot.ly/~JoshAbrams/30/lyapunov-profile-for-rule-38/'
-		'39'=>'https://plot.ly/~JoshAbrams/32/lyapunov-profile-for-rule-39/'
-		'45'=>'https://plot.ly/~JoshAbrams/34/lyapunov-profile-for-rule-45/'
-		'57'=>'https://plot.ly/~JoshAbrams/36/lyapunov-profile-for-rule-57/'
-		'6'=>'https://plot.ly/~JoshAbrams/38/lyapunov-profile-for-rule-6/'
-		'60'=>'https://plot.ly/~JoshAbrams/40/lyapunov-profile-for-rule-60/'
-		'62'=>'https://plot.ly/~JoshAbrams/42/lyapunov-profile-for-rule-62/'
-		'73'=>'https://plot.ly/~JoshAbrams/44/lyapunov-profile-for-rule-73/'
+		'150'=>'https://plot.ly/~JoshAbrams/20/lyapunov-profile-for-rule-150/',
+		'22'=>'https://plot.ly/~JoshAbrams/22/lyapunov-profile-for-rule-22/',
+		'225'=>'https://plot.ly/~JoshAbrams/24/lyapunov-profile-for-rule-225/',
+		'25'=>'https://plot.ly/~JoshAbrams/26/lyapunov-profile-for-rule-25/',
+		'30'=>'https://plot.ly/~JoshAbrams/28/lyapunov-profile-for-rule-30/',
+		'38'=>'https://plot.ly/~JoshAbrams/30/lyapunov-profile-for-rule-38/',
+		'39'=>'https://plot.ly/~JoshAbrams/32/lyapunov-profile-for-rule-39/',
+		'45'=>'https://plot.ly/~JoshAbrams/34/lyapunov-profile-for-rule-45/',
+		'57'=>'https://plot.ly/~JoshAbrams/36/lyapunov-profile-for-rule-57/',
+		'6'=>'https://plot.ly/~JoshAbrams/38/lyapunov-profile-for-rule-6/',
+		'60'=>'https://plot.ly/~JoshAbrams/40/lyapunov-profile-for-rule-60/',
+		'62'=>'https://plot.ly/~JoshAbrams/42/lyapunov-profile-for-rule-62/',
+		'73'=>'https://plot.ly/~JoshAbrams/44/lyapunov-profile-for-rule-73/',
 		'90'=>'https://plot.ly/~JoshAbrams/46/lyapunov-profile-for-rule-90/'];
 			foreach($urls as $rule=>$page){
 				echo "<li><a target='_blank' href=\"" . $page . "\">Defect frequency for rule " . $rule . "</a></li>";
