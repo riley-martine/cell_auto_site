@@ -11,13 +11,9 @@
       </li>
 
       <li class="nav-item">
-        <a class="nav-link" target="_blank" href="https://github.com/auhsoja/Cellular-Automata-GUI">Project Code</a>
+        <a class="nav-link" href="code.php">Project Code</a>
       </li>
       
-      <li class="nav-item">
-        <a class="nav-link" target="_blank" href="https://github.com/mbmartine/cell_auto_site">Website Code</a>
-      </li>
-
       <li class="nav-item">
         <a class="nav-link" href="resources.php">Resources</a>
       </li>
