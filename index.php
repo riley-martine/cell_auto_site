@@ -75,7 +75,7 @@
 
 	<li>Day 7<ul>
 		<li>Continued cleaning stuff up and prepared for presentations</li>
-		<li>Created the following <a href=https://docs.google.com/presentation/d/13iXdrosvmNsd6SGCLp-m4eQd0pPrJbjSR2VOYP8Q48M/edit#slide=id.g1b20a42941_0_5short>short presentation</a> to demonstrate our work
+		<li>Created the following <a href=https://docs.google.com/presentation/d/13iXdrosvmNsd6SGCLp-m4eQd0pPrJbjSR2VOYP8Q48M/edit#slide=id.g1b20a42941_0_5>short presentation</a> to demonstrate our work
         </ul></li>
 
         
