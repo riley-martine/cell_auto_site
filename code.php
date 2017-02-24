@@ -23,8 +23,11 @@
             </li>
             
             <li><a target="_blank" href="https://github.com/riley-martine/cellular-automata-cryptography">
-            Cryptography with cellular automata, generate defect cones</a> (Python, tkinter)
+            Cryptography GUI with cellular automata</a> (Python, tkinter)
             </li>
+
+            <li><a target="_blank" href="https://github.com/riley-martine/cellautocommon">
+            Functions for CAs package</a> (Python) </li>
 
             <li><a target="_blank" href="https://github.com/riley-martine/lyapunov-ca-gen">
             Visualization of defect cones of CAs</a> (Python, pillow)
@@ -64,6 +67,38 @@
 		?>
 	</ul>
 	</label>
+    <label> Here are some defect cones of cellular automata. We made these by pseudorandomly generating a row of 500 cells, following the rule down 1000 rows, then inverting the cell in the middle of the initial row and running the simulation again. Then we make a file containing all of the cells that are not the same in the two generated automata, and overlay it on the first simulation. The red is the defect cone, and the black is the first generated row. The code is above, in Cryptography/big to generate, and Visualization/bmp to generate the images. Click on the images to zoom.
+  <!--  <blockquote class="imgur-embed-pub" lang="en" data-id="a/tM0NX"></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+   -->
+   
+   <div id="myCarousel" class="carousel slide" data-ride="carousel">
+     <div class="carousel-inner" role="listbox">
+         <div class="item active">
+    <a href="static/images/composites/18.0.png">  <img src="static/images/composites/18.0.png" width="1000" height="500">
+</a>
+         </div>
+    <?php
+    $images = array_diff(scandir("static/images/composites/"), array('.','..'));
+    foreach ($images as $image){
+        echo 
+                "<div class=\"item\"><a href=\"static/images/composites/$image\">"
+                   ."<img src=\"static/images/composites/".$image."\" alt=\"".$image."\" width=\"1000\" height=\"500\">"
+                ."</a></div>";
+    }
+
+
+    ?>
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+   </div>
+   </div>
+   </label>
       </div>
     </div>
 
