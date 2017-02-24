@@ -25,7 +25,6 @@
           <li>Started researching cellular automata and taking notes</li>
           <li>Designed sub-optimal identity verification system for <var>n</var> parties with a shared secret passphrase that does not reveal the passphrase, using rule 4 cellular automata</li>
           <li>Initialized repository for website and code</li>
-          <li>Ate copious amounts of froot loops</li>
        </ul></li>
 
 
@@ -56,7 +55,7 @@
             <li>Finished <a target="_blank" href="https://github.com/riley-martine/cellular-automata-cryptography">
             cryptography GUI v1.0</a></li>
             <li>Read more about Lyapunov exponents/profiles</li>
-            <li>Generated massive amounts of defect cones</li>
+            <li>Generated massive amounts of defect cones and histograms demonstrating divergence of automata</li>
        </ul></li>
 
 
@@ -68,12 +67,14 @@
 
 
         <li>Day 6<ul>
-
+		<li>Cleaned up code for the website and projects</li>
+		<li>Added slides and links to the website to demonstrate our work with lyapunov profiles and divergence of automata</li>
+		<li>Learned about Python packaging and packaged several common functions.</li>
         </ul></li>
 
 
-        <li>Day 7<ul>
-
+	<li>Day 7<ul>
+		<li>Continued cleaning stuff up and prepared for presentations.</li>
         </ul></li>
 
         
