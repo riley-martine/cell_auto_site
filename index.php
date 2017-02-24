@@ -69,12 +69,13 @@
         <li>Day 6<ul>
 		<li>Cleaned up code for the website and projects</li>
 		<li>Added slides and links to the website to demonstrate our work with lyapunov profiles and divergence of automata</li>
-		<li>Learned about Python packaging and packaged several common functions.</li>
+		<li>Learned about Python packaging and packaged several common functions</li>
         </ul></li>
 
 
 	<li>Day 7<ul>
-		<li>Continued cleaning stuff up and prepared for presentations.</li>
+		<li>Continued cleaning stuff up and prepared for presentations</li>
+		<li>Created the following <a href=https://docs.google.com/presentation/d/13iXdrosvmNsd6SGCLp-m4eQd0pPrJbjSR2VOYP8Q48M/edit#slide=id.g1b20a42941_0_5short>short presentation</a> to demonstrate our work
         </ul></li>
 
         
